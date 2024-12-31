@@ -1,0 +1,896 @@
+{
+    "3383": {
+        "「むっ！\n　今のは　まさか　アクロニア鉱山か！？": "Hum ! Ce n'etait pas... Acronia Mine, par\nhasard !?"
+    },
+    "3384": {
+        "「チャルコ！　何があった！？": "Chalco ! Que s'est-il passe !?"
+    },
+    "3385": {
+        "「ホ　ホッツィ親方！　大変ですっ！！": "Ho, Boss Hottsi ! C'est une urgence !!"
+    },
+    "3386": {
+        "「アクロニア鉱山で　崩落が起こって\n　<pc>が……\n　<pc>が　巻き込まれましたっ！！": "Un eboulement s'est produit dans la mine\nd'Acronia et <pc>... <pc> a ete\npris dans l'accident !"
+    },
+    "3387": {
+        "「な　なんだってーっ！？": "Qu-quoi !?"
+    },
+    "3388": {
+        "「オラ　見たんだ……。\n　変な紫の霧が　岩壁から　ふきだしてよォ。": "Je l'ai vu, tu sais... Un etrange brouillard\nviolet s'echappait de la paroi rocheuse."
+    },
+    "3389": {
+        "「そしたら　でかい岩が　はがれるように\n　落ちてきて　<pc>の上に……。": "Et puis soudain, un enorme rocher s'est\ndetache et est tombe sur <pc>..."
+    },
+    "3390": {
+        "「<pc>　返事してくれよォ！": "<pc>, reponds-moi, je t'en prie !"
+    },
+    "3391": {
+        "「今　上の町へ　シスターを呼びに\n　行かせていますが……。": "En ce moment, quelqu'un est parti chercher une\nsoeur dans la ville au-dessus..."
+    },
+    "3392": {
+        "「………………。": ""
+    },
+    "3393": {
+        "「はあ　はあ……。\n　どこです　<pc>さんは！？": "Haa, haa... Ou etes-vous, <pc>-san !?"
+    },
+    "3394": {
+        "「わざわざ来てもらって　すまんな　マレレ。": "Merci d'etre venu expres, Marere."
+    },
+    "3395": {
+        "「いいんです。でも　困ったわ……。\n　こんなとき　ホルタ神父が生きていたら……。": "C'est bon. Mais je suis vraiment embetee... Si\nseulement le pere Horuta etait encore en\nvie..."
+    },
+    "3396": {
+        "「マレレ　お前しか　いねえんだ。\n　頼むっ！！": "Malele, il n'y a que toi. Je t'en prie !!"
+    },
+    "3397": {
+        "「……はい。": "... Oui."
+    },
+    "3398": {
+        "「天にまします　われらが神よ。\n　われらを見守る　山神イプチャルよ。": "O notre Dieu qui reside au ciel. O dieu de la\nmontagne Ipcharl qui veille sur nous."
+    },
+    "3399": {
+        "「どうか　<pc>の　みたまを\n　呼び戻したまえ……！": "S'il te plait, fais revenir l'esprit de\n<pc>... !"
+    },
+    "3400": {
+        "「…………。": ""
+    },
+    "3401": {
+        "「………………。": ""
+    },
+    "3402": {
+        "「チカラが　およばず……　すみません。": "Je n'ai pas ete a la hauteur... Je suis\ndesole."
+    },
+    "3403": {
+        "「いや　マレレが　謝ることはない。\n　ホルタ神父でも　今の　<pc>を\n　助けることは　できなかっただろう……。": "Non, tu n'as pas a t'excuser, Marere. Meme le\npere Horuta n'aurait pas pu sauver <pc>\nmaintenant..."
+    },
+    "3404": {
+        "「ウソだろ？\n　アクロニア鉱山で　死者が出るなんて……。": "C'est pas vrai ? Qu'il y ait des morts a la\nmine d'Acronia..."
+    },
+    "3405": {
+        "「山神イプチャルは　何してやがんだ！？": "Que fait donc le dieu de la montagne Ipcharl\n!?"
+    },
+    "3406": {
+        "「ムチェ　ブチャ　山神さまを\n　悪く言うもんじゃねえ。\n　神さまにだって……　きっと都合があるんだ。": "Mutch Butch, il ne faut pas mal parler de\nYamagami-sama. Meme les dieux ont surement\nleurs raisons..."
+    },
+    "3407": {
+        "「チッ！　何が　都合だ。\n　そんなことで片付けられちゃ\n　死んだ　<pc>も　浮かばれねえぜ！": "Tch ! Quelle excuse pitoyable. On ne peut pas\nsimplement balayer ca comme ca. Meme\n<pc>, qui est mort, ne pourrait pas<br>reposer en paix !"
+    },
+    "3408": {
+        "「それに　ここ最近　ろくな鉱石も採れねえし。\n　神さまの都合で　ビンボー暮らしさせられちゃ\n　たまったもんじゃねえよ！": "En plus, ces derniers temps, on ne trouve meme\npas de bons minerais. Etre force de vivre dans\nla pauvrete a cause des caprices des dieux,<br>c'est vraiment insupportable !"
+    },
+    "3409": {
+        "「オレとブチャは　出ていかせてもらうぜ。\n　あばよッ！": "Moi et Butch, on s'en va. Adieu !"
+    },
+    "3410": {
+        "「待つんだ　ムチェ！　ブチャ！": "Attends, Mutch ! Butch !"
+    },
+    "3411": {
+        "「ほっとけ！\n　行きたいヤツは　行かせりゃいい。": "Laisse tomber ! Ceux qui veulent y aller,\nqu'ils y aillent."
+    },
+    "3412": {
+        "「それよりも　今は　<pc>のために\n　祈ってやろうじゃねえか。\n　安らかな眠りに　つけるようによ……。": "Mais pour l'instant, prions pour <pc>.\nQu'il puisse reposer en paix..."
+    },
+    "3413": {
+        "「んん！？": "Hmm !?"
+    },
+    "3414": {
+        "「ぬおおおおっ！？　<pc>？": "Quoi !? <pc> ?"
+    },
+    "3415": {
+        "「ああ　よかった！\n　<pc>が　息を吹き返したよ！\n　マレレと　あたしたちの祈りが　届いたんだね！": "Ah, je suis soulagee ! <pc> a repris\nconscience ! Les prieres de Marele et les\nnotres ont ete exaucees !"
+    },
+    "3416": {
+        "「<pc>……　お前　本当に　大丈夫か？\n　なんつうか　お前の身体に\n　別の魂が　宿ったようにも見えたが……。": "<pc>... Es-tu vraiment sur que ca va ?\nComment dire, on aurait dit qu'une autre ame\navait pris possession de ton corps..."
+    },
+    "3417": {
+        "「……いや　その様子なら　大丈夫そうだな。\n　まったく　ヒヤヒヤさせやがって。": "... Eh bien, a te voir comme ca, tout semble\naller bien. Tu m'as vraiment fait une de ces\npeurs."
+    },
+    "3418": {
+        "「助かったぜ　マレレ。\n　何か　礼をしねえとな！": "Tu m'as sauve, Marere. Je dois bien te\nremercier d'une maniere ou d'une autre !"
+    },
+    "3419": {
+        "「いえ　お礼なんて　いいんです。\n　ただ……　そのぅ………。": "Non, il n'y a pas besoin de me remercier.\nC'est juste que... enfin..."
+    },
+    "3420": {
+        "「親方さん。私と　一緒に\n　教会へ　来ていただけないでしょうか？\n　ルナナさんが　話がしたいって。": "親方さん私と一緒に Churchへ来ていただけないでしょうか？\nLunanaさんが話がしたいって"
+    },
+    "3421": {
+        "「ルナナが！？": "Lunana !?"
+    },
+    "3422": {
+        "「チッ……。あの人間の小娘め。\n　テメエの　くだらん話には乗らんと\n　何度も言っておるのに　しつこいヤツだ！": "Tch... Cette petite humaine. Combien de fois\ndois-je lui dire que je ne veux pas ecouter\nses histoires stupides ? Elle est vraiment<br>tenace !"
+    },
+    "3423": {
+        "「世話になった　ホルタ神父の娘だと思って\n　甘い顔をしていれば　つけ上がりやがって……。": "Je pensais que tu etais la fille du pere\nHoruta, a qui je dois beaucoup... Mais tu en\nas profite et tu as pris tes aises..."
+    },
+    "3424": {
+        "「あの……　親方さん………？": "Euh... Maitre...?"
+    },
+    "3425": {
+        "「あ　ああ……。": "Ah... ah..."
+    },
+    "3426": {
+        "「……そうか。ルナナの所へな。うん。\n　マレレには　<pc>を助けてもらったし\n　行かないわけには　いかねえな。": "Je vois. Chez Lunana, hein. Ouais. Marere m'a\naide avec <pc>, donc je ne peux pas ne\npas y aller."
+    },
+    "3427": {
+        "「ああっ！": "Ah !"
+    },
+    "3428": {
+        "「ダ　ダメだ。\n　なんだか　腹が痛いし　頭も痛いし\n　めまいがする……ゲホ　ゲホッ！": "Je... Je ne me sens pas bien. J'ai mal au\nventre, j'ai aussi mal a la tete, et j'ai des\nvertiges... *tousse, tousse*!"
+    },
+    "3429": {
+        "「残念だが　ルナナの所へは\n　行けそうにないなあ……。\n　誰か　オレの代わりに　行ってくれねえかな？": "C'est dommage, mais je ne pense pas pouvoir\naller chez Lunana... Est-ce que quelqu'un\npourrait y aller a ma place ?"
+    },
+    "3430": {
+        "「おおっ！　そうか　<pc>！\n　お前が　行ってくれるか！": "Oh ! Vraiment, <pc> ! Tu vas y aller !"
+    },
+    "3431": {
+        "「そうだよな。お前は　命を助けてもらった\n　礼を言いに　教会まで行かないとな。\n　ついでに　ルナナの所へ　寄るといい。": "Exactement. Tu devrais aller a l'eglise pour\nremercier ceux qui t'ont sauve la vie.\nProfites-en pour passer voir Lunana."
+    },
+    "3432": {
+        "「<pc>！\n　ルナナのヤツに　ビシッと言ってこい。": "<pc> ! Va dire a ce Lunana ce que tu\npenses, sans detour."
+    },
+    "3433": {
+        "「親方は　絶対に　イヤだと言っている。\n　もう二度と　親方を呼んだりするなと！": "Le maitre refuse categoriquement. Il a dit de\nne plus jamais l'appeler !"
+    },
+    "3434": {
+        "「では　頼んだぞ　<pc>。": "Je compte sur toi, <pc>."
+    },
+    "3435": {
+        "「ゲホゲホ　ゴーホゴホッ……！": "Ah... Ah... *tousse* *tousse*...!"
+    },
+    "3436": {
+        "「大丈夫かしら……　親方さん。": "J'espere que tout va bien... pour vous,\nMaitre."
+    },
+    "3437": {
+        "「では　私は　教会に戻りますけど……\n　また何かあったら　呼んでください。": "Je vais retourner a l'eglise maintenant... Si\njamais vous avez besoin de moi, n'hesitez pas\na m'appeler."
+    },
+    "3438": {
+        "「<pc>さんは　のちほど\n　上の町の教会に住んでいる\n　ルナナさんを　訪ねてくださいね。": "<pc>-san, veuillez rendre visite a\nLunana-san, qui reside dans l'eglise de la\nville superieure."
+    },
+    "3439": {
+        "「相変わらず　ノックもなしに\n　入っていらっしゃるのね　ホッツィさん。": "Vous entrez toujours sans frapper, n'est-ce\npas, Hotzi-san ?"
+    },
+    "3440": {
+        "「でも……　怒ったりなんてしなくてよ？\n　こんなに早く　来てくださったんだもの。\n　今日こそ　いい返事を　お聞かせ願えるのよね？": "Mais... Je ne vais pas me facher, tu sais ?\nVous etes venu si rapidement. Aujourd'hui,\nvous allez enfin me donner une bonne reponse,<br>n'est-ce pas ?"
+    },
+    "3441": {
+        "「このルナナに　まかせてくだされば\n　決して　悪いようには　いたしませんわ。": "Si vous laissez cela a Lunana, je vous assure\nque tout se passera bien."
+    },
+    "3442": {
+        "「ねっ　ホッツィさん<heart>": "He, Hottsi-san <heart>"
+    },
+    "3443": {
+        "「……って　誰よ　あんた！？": "…Mais qui es-tu, toi !?"
+    },
+    "3444": {
+        "「……はあッ！？\n　親方の代理で　返事をしにきたですって？": "...... Quoi !? Tu es venu repondre a ma place\nen tant que representant du patron ?"
+    },
+    "3445": {
+        "「いい度胸ね　あのクソ親父！": "Quel culot, ce sale vieux !"
+    },
+    "3446": {
+        "「この　あたしの厚意を　無視するなんて\n　ありえないわッ！": "Ignorer ma bienveillance a ce point, c'est\nimpensable !"
+    },
+    "3447": {
+        "「な……何よ。あんた　まだいたの？": "Qu... Quoi ? Tu es encore la ?"
+    },
+    "3448": {
+        "「あー　親方の返事なら　いらないわよ。": "Ah, pas besoin de la reponse du chef."
+    },
+    "3449": {
+        "「代理をよこすぐらい\n　あたしと　話したくないんだもの。\n　断ってこいって　言われたんでしょ？": "Il semble qu'il ne veuille vraiment pas me\nparler, au point d'envoyer un remplacant. On\nt'a dit de venir me refuser, n'est-ce pas ?"
+    },
+    "3450": {
+        "「……………………。": "."
+    },
+    "3451": {
+        "「あなた　よく見ると　下の町のヤツらとは\n　どことなーく　ちがってるのね。\n　みょうに　人間っぽいっていうか？": "Tu sais, en te regardant bien, tu es un peu\ndifferent des gens de la ville d'en bas. Tu as\nun air... etrangement humain, tu ne trouves<br>pas ?"
+    },
+    "3452": {
+        "「……へえ　<pc>っていうの？\n　じゃあ　命令するわ　<pc>。": "...Oh, tu t'appelles <pc> ? Alors, je\nvais te donner un ordre, <pc>."
+    },
+    "3453": {
+        "「あなた　あたしの下僕になりなさいッ！<yesno><close>": "Vous allez devenir mon serviteur !\n<yesno><close>"
+    },
+    "3454": {
+        "「よく　聞こえなかったわ。\n　<pc>　あなた\n　あたしの下僕に　なるわよねッ！？<yesno><close>": "Je n'ai pas bien entendu. <pc>, tu vas\ndevenir mon serviteur, n'est-ce pas !?\n<yesno><close>"
+    },
+    "3455": {
+        "「いい返事ね　<pc>。\n　あなたは　幸せ者よ。": "Bonne reponse, <pc>. Tu es vraiment\nchanceux."
+    },
+    "3456": {
+        "「あたしは　このアグラニの救世主となり\n　父以上の英雄に　なるんだから。\n　あなたも　下僕として　歴史に名を残せるわよ！": "Je deviendrai le Seigneur sauveur d'Agrani et\nun heros encore plus grand que mon pere. Toi\naussi, tu pourras laisser ton nom dans<br>l'histoire en tant que serviteur !"
+    },
+    "3457": {
+        "「<pc>。ここ数年　アクロニア鉱山から\n　宝石はおろか　まともな鉱石すら\n　出ていないことは　知ってるわよね？": "<pc>. Tu sais bien que ces dernieres\nannees, meme les pierres precieuses ou les\nminerais decents ne sortent plus de la mine<br>d'Acronia, n'est-ce pas ?"
+    },
+    "3458": {
+        "「でも　あたしは知っているの。\n　アクロニア鉱山の　どこを掘れば\n　宝石が　ザクザク出るのかを……！": "Mais je le sais bien. Je sais ou creuser dans\nla mine d'Acronia pour trouver des gemmes en\nabondance... !"
+    },
+    "3459": {
+        "「アグラニの町の　書物という書物を調べて\n　探り当てた情報だから　間違いないわ！": "C'est une information que j'ai trouvee en\nexaminant tous les livres de la ville\nd'Agrani, donc il n'y a pas d'erreur !"
+    },
+    "3462": {
+        "「でもね　あの親方ったら　おかしな理由をつけて\n　その場所だけは　掘らないって言うのよ！\n　まったく　理解不能だわッ！": "Mais tu sais, ce maitre d'oeuvre-la, il trouve\ntoujours une excuse bizarre pour ne pas\ncreuser a cet endroit precis ! C'est<br>totalement incomprehensible !"
+    },
+    "3463": {
+        "「下の町のヤツらは　どいつも　こいつも\n　親方の言いなりみたいだけど……": "Les habitants de la ville d'en bas semblent\ntous obeir aux ordres du maitre, mais..."
+    },
+    "3464": {
+        "「親方よりもエラい　賢者サマが\n　そこを　掘ってもいいって言ったら\n　みんな聞くと　思わない？": "Si le sage-sama, qui est plus respecte que\nnotre chef, dit qu'on peut creuser la-bas, tu\nne penses pas que tout le monde ecoutera ?"
+    },
+    "3465": {
+        "「そういうワケで　<pc>。\n　あたしの下僕として　さっそく\n　はたらいてもらいたいの。": "Voila la situation, <pc>. Je veux que tu\ncommences immediatement a travailler en tant\nque mon serviteur."
+    },
+    "3466": {
+        "「アクロニア鉱山に住む　賢者ブロッゲン。\n　あいつを説得して　その場所を掘ってもいいって\n　おスミつきを　もらってくるのよッ！": "Sage Broggen, qui vit dans la mine d'Acronia.\nVa le convaincre de nous donner la permission\nde creuser a cet endroit !"
+    },
+    "3467": {
+        "「ちょっぴり　むずかしい仕事だけど\n　もし成功したら　あたしのルーラストーンを\n　あげてもいいわッ！": "C'est un travail un peu difficile, mais si tu\nreussis, je veux bien te donner mon Zoomstone\n!"
+    },
+    "3468": {
+        "「ルーラストーンがあれば\n　石に記憶させた場所に　一瞬で行けるのよ。\n　誰もが欲しがる　貴重なものなんだから！": "Avec une Zoomstone, tu peux te rendre\ninstantanement a l'endroit memorise sur la\npierre. C'est un objet precieux que tout le<br>monde desire !"
+    },
+    "3469": {
+        "「<pc>　頼んだわよ。\n　アクロニア鉱山へ行って　必ず\n　ブロッゲンを　説得してきてちょうだいね！": "<pc>, je compte sur toi. Va a la mine\nd'Acronia et assure-toi de convaincre Bloggen\n!"
+    },
+    "3474": {
+        "「あたし　バカとノロマは　嫌いなのよね……。": "Je n'aime pas les idiots et les Noro, tu\nsais..."
+    },
+    "3475": {
+        "「あんな　暗くてジメジメしてて\n　魔物まで出る所　あたしは大キライだけど\n　あなたにとっては　庭みたいな場所でしょ？": "Un endroit aussi sombre et humide ou des\nmonstres apparaissent, je deteste vraiment ca,\nmais pour toi, c'est un peu comme ton jardin,<br>n'est-ce pas ?"
+    },
+    "3476": {
+        "「さっさと　アクロニア鉱山にもぐって\n　ブロッゲンを　仲間に引き込みなさいッ！": "Depeche-toi de plonger dans la mine d'Acronia\net rallie Broggen a notre cause !"
+    },
+    "3477": {
+        "「下の町に住む　あなたが　ルーラストーンを\n　手に入れられる　チャンスなんて\n　もう　二度とないんだからね！": "Toi qui habites dans la ville d'en bas, tu\nn'auras plus jamais une chance de mettre la\nmain sur un Zoomstone !"
+    },
+    "3478": {
+        "「偉大なる　大賢者ブロッゲンさまの\n　お帰りでアールっ！！": "Le grand et puissant Sage Broggen-sama est de\nretour !!"
+    },
+    "3479": {
+        "「おおっ！\n　おかえりなさいませ　ブロッゲンさま。": "Oh ! Bienvenue chez vous, Broggen-sama."
+    },
+    "3480": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3481": {
+        "「ブロッゲンさまは\n　留守中　変わったことは　なかったかと\n　おたずねでアールっ！！": "Lord Bloggen demande s'il s'est passe quelque\nchose d'inhabituel en son absence !!"
+    },
+    "3482": {
+        "「じつは　このアクロニア鉱山の中で\n　崩落事故が　起こりまして　そのとき……": "En fait, un effondrement s'est produit a\nl'interieur de cette mine d'Acronia, et a ce\nmoment-la..."
+    },
+    "3483": {
+        "「ふせろっ！！": "Baissez-vous !!"
+    },
+    "3484": {
+        "「ふうう……。": "Pff..."
+    },
+    "3485": {
+        "「あ　あの　紫の霧は……？": "Ah, ce brouillard violet, c'est...?"
+    },
+    "3486": {
+        "「もしや　あれが　崩落があったときに\n　現れたという　怪しい霧では！？": "Se pourrait-il que ce soit le mysterieux\nbrouillard dont on a parle lors de\nl'effondrement ?！"
+    },
+    "3487": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3488": {
+        "「ブロッゲンさま？": "<Broguen sama> ?"
+    },
+    "3489": {
+        "「あれは……": "Qu'est-ce que c'est..."
+    },
+    "3490": {
+        "「触れれば　命を落とすと言われる　魔瘴の霧。\n　こんな所にまで現れるとは　本格的に\n　手を打たねば……とのことでアール！！": "On dit que toucher le brouillard malefique\npeut couter la vie. Si cela se repand\njusqu'ici, il faut agir serieusement... C'est<br>ce qu'il en est, Aru !!"
+    },
+    "3491": {
+        "「魔瘴……。": "La malveillance..."
+    },
+    "3492": {
+        "「ねえ　こいつ　誰？": "He, c'est qui, lui ?"
+    },
+    "3493": {
+        "「鉱山で見習いをしている　<pc>です。\n　ブロッゲンさまに　話があるとかで\n　ここまで　来たようですが……。": "Je suis <pc>, apprenti a la mine. Il\nparait que vous avez quelque chose a dire a\nBroggen-sama, c'est pourquoi vous etes venu<br>jusqu'ici..."
+    },
+    "3494": {
+        "「ふ～～～ん。": "Hum..."
+    },
+    "3495": {
+        "「どうしました　ブロッゲンさまの杖さま？\n　<pc>に　おかしなところでも？": "Que se passe-t-il, Seigneur Baton de Broggen ?\nY a-t-il quelque chose d'etrange a <pc>\n?"
+    },
+    "3496": {
+        "「むふふ～　ヒミツぅ～～♪": "Mufufu~ C'est un secret~~♪"
+    },
+    "3497": {
+        "「……は　はあ。": "......Ha ha."
+    },
+    "3498": {
+        "「ところでさ　<pc>。\n　話って　なんなの？": "Au fait, <pc>. De quoi voulais-tu parler\n?"
+    },
+    "3499": {
+        "<pc>は　事情を説明した。": "<pc> expliqua la situation."
+    },
+    "3500": {
+        "「……ルナナおじょうさんね。\n　知ってる　知ってる！\n　あの　ホルタ神父の娘だね！": "Oh, c'est la jeune demoiselle Lunana, n'est-ce\npas ? Je la connais, je la connais ! C'est la\nfille du pere Horuta, n'est-ce pas !"
+    },
+    "3501": {
+        "「……なるほど　なるほど。確かに\n　ブロッゲンさまの言うことを　聞かないヤツは\n　アグラニには　いないからね～。": "… Je vois, je vois. C'est vrai qu'a Agrani, il\nn'y a personne qui n'ecoute pas ce que dit\nBroggen-sama."
+    },
+    "3502": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3503": {
+        "「ふむふむ……。\n　ブロッゲンさまは　こう　おっしゃって\n　おらレール！": "Hum, hum... Broggen-sama a dit cela : Orareeru\n!"
+    },
+    "3504": {
+        "「ルナナの言う　書物に記された地とは\n　アクロニア鉱山で　はたらく者たちが\n　戒めの地と呼ぶ場所であり……": "Le lieu mentionne dans le livre dont parle\nLunana est l'endroit appele Cave of Counsel\npar ceux qui travaillent a la mine<br>d'Acronia..."
+    },
+    "3505": {
+        "「はるか昔　あの地に眠る　貴重な宝石をめぐり\n　強欲なドワーフたちが　命を奪い合うという\n　忌まわしい事件が　起きた場所なのでアール！": "Il y a bien longtemps, en ce lieu ou repose\nune precieuse gemme, un incident abominable\ns'est produit, ou des Nains cupides se sont<br>entre-tues pour s'en emparer !"
+    },
+    "3506": {
+        "「そして　その場にいたドワーフたちは　死後\n　欲と未練にまみれた怨霊となり　鉱山に入る者を\n　退けるようになってしまったのさ。": "Et puis, les Nains presents sur place, apres\nleur mort, se sont transformes en esprits\nvengeurs remplis de desir et de regrets,<br>repoussant quiconque s'aventure dans la mine."
+    },
+    "3507": {
+        "「その祈りが届き　怨霊は　ついに鎮められた。\n　親方たちは　その話を知っているから\n　戒めの地だけは　掘らないってわけさ……。": "Cette priere a ete exaucee, et l'esprit\nvengeur a finalement ete apaise. Les maitres\nconnaissent cette histoire, c'est pourquoi ils<br>ne creusent jamais dans la Cave of Counsel..."
+    },
+    "3508": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3509": {
+        "「……えっ！？": "...Hein !?"
+    },
+    "3510": {
+        "「<pc>……。": "<pc>..."
+    },
+    "3511": {
+        "「ブロッゲンさまは　自分が行って\n　ルナナに　戒めの地の説明をしてやろうと\n　おっしゃっておらレール……。": "Le seigneur Bloggen a declare qu'il ira\nlui-meme pour expliquer a Lunana au sujet de\nla Cave of Counsel..."
+    },
+    "3512": {
+        "「<pc>は　しっかりと見届けよ……\n　とのことでアール。": "<pc>, veille a bien observer... C'est ce\nque Aru a dit."
+    },
+    "3513": {
+        "「ブロッゲンさま　くれっぐれも\n　お手柔らかに　お願いしますよ～！": "Bruggen-sama, je vous prie de faire preuve de\nclemence !"
+    },
+    "3514": {
+        "「ボクは　ただの通訳なんですからね？\n　へし折られたりとか　イヤですよっ！": "Je ne suis qu'un simple interprete, d'accord ?\nJe n'ai vraiment pas envie de me faire casser\nen deux !"
+    },
+    "3515": {
+        "「うるさい　ヒゲッ！\n　お説教なんて　もうウンザリ！！": "Tais-toi, le barbu ! J'en ai assez de tes\nsermons !!"
+    },
+    "3516": {
+        "「この……ッ　カビだんごッ！！": "Espece de... boule de moisissure !!"
+    },
+    "3517": {
+        "「ブロッゲンを　説得できなかったんだから\n　ルーラストーンは　あげないわよ！\n　下僕も　クビよ　クビっ！！": "Je ne peux pas convaincre Broggen, donc je ne\nte donnerai pas le Zoomstone ! Tu es aussi\nvire en tant que serviteur, vire !!"
+    },
+    "3518": {
+        "「ふんッ！": "Humph !"
+    },
+    "3519": {
+        "「あわわわ……　こわ～い。": "Ahhhh... C'est effrayant."
+    },
+    "3520": {
+        "「でも　いくら怒ったところで\n　あんな　おじょうさん　ひとりじゃ\n　なんにも　できないよね！": "Mais meme si elle est en colere, cette jeune\nfille ne peut rien faire toute seule, n'est-ce\npas !"
+    },
+    "3521": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3522": {
+        "「えっ……？": "Quoi... ?"
+    },
+    "3523": {
+        "「ぐう　ぐう……！": "Zzz... Zzz..."
+    },
+    "3524": {
+        "「………はあ　わかりましたよぅ。": "…Ah, d'accord, je comprends."
+    },
+    "3525": {
+        "「ブロッゲンさまは　<pc>に\n　手伝いをしてほしいと　望んでおらレール！": "Broggan-sama souhaite que tu aides <pc>\n!"
+    },
+    "3526": {
+        "「<pc>が　我々と　一緒に\n　戒めの地の見回りに　行ってくれるなら……": "Si <pc> accepte de nous accompagner pour\npatrouiller dans la Cave of Counsel..."
+    },
+    "3527": {
+        "「ルナナに　もらいそびれたルーラストーンを\n　<pc>に　やろうと！\n　……くううっ　なんと　慈悲深いお言葉。": "Je vais donner a <pc> le Zoomstone que\nje n'ai pas reussi a obtenir a Lunana ! ...\nHmmm, quelles paroles pleines de compassion."
+    },
+    "3528": {
+        "「まあ　それはさておき　<pc>。\n　ブロッゲンさまの手伝い　してくれるよね！？<yesno><close>": "Eh bien, cela etant dit, <pc>. Tu vas\naider Broggen-sama, n'est-ce pas\n!?<yesno><close>"
+    },
+    "3529": {
+        "「いいえ　とか　言うなっ！！": "N'ose meme pas dire non !!"
+    },
+    "3530": {
+        "「ブロッゲンさまが　気をつかって\n　ルーラストーンをくれるって言ってるんだぞ？\n　手伝うに　決まってるよねっ！？<yesno><close>": "Blokken-sama veut bien nous offrir une\nZoomstone par gentillesse, tu sais ? Alors\nbien sur qu'on va l'aider, n'est-ce pas !?<br><yesno><close>"
+    },
+    "3531": {
+        "「ブロッゲンさまが　先に　ルーラストーンを\n　くださるそうでアール！": "Il parait que Broggen-sama va nous donner le\nZoomstone en premier, Aru !"
+    },
+    "3532": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3533": {
+        "<pc>は\nルーラストーンを　手に入れた！<me 60>": "<pc> a obtenu une Zoomstone ! <me 60>"
+    },
+    "3534": {
+        "「報酬だけもらって　逃げちゃダメだよ！\n　準備を整えたら　まっすぐ\n　ホッツィ親方の家まで　来てよねっ！": "Tu ne peux pas juste prendre ta recompense et\nt'enfuir ! Une fois que tu es pret, viens\ndirectement chez Boss Hottsi !"
+    },
+    "3535": {
+        "「しかし　ルナナのヤツめ。\n　偉大なる賢者　ブロッゲンさまにまで\n　そんな態度を取るとは　ふてえヤツだ！": "Cependant, ce Lunana... Quel insolent ! Meme\nenvers le grand sage, Broggen-sama, il ose\nadopter une telle attitude !"
+    },
+    "3536": {
+        "「いっそ　怒りにまかせて\n　この町から　出ていってくれれば\n　せいせいするんだがなぁ……。": "Si seulement tu pouvais laisser la colere te\nguider et quitter cette ville... Ce serait un\nsoulagement."
+    },
+    "3537": {
+        "「まったくだよ！\n　お父さんのホルタ神父とは　大ちがいだね！": "Tout a fait ! Il est tres different de mon\npere, le Pere Horuta !"
+    },
+    "3538": {
+        "「おっ　<pc>か？": "Oh, c'est toi, <pc> ?"
+    },
+    "3539": {
+        "「遅かったじゃないか！": "Tu es en retard !"
+    },
+    "3540": {
+        "「ブロッゲンさま。\n　もう　出発なさるんですか？": "Bloggen-sama. Vous partez deja ?"
+    },
+    "3541": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3542": {
+        "「ブロッゲンさまは　おっしゃっておらレール！\n　崩落の前から　アクロニア鉱山の様子は\n　すこし　おかしかった。": "Le seigneur Broggen a dit qu'il trouvait cela\netrange ! Depuis avant l'effondrement, il y\navait quelque chose d'anormal dans la mine<br>d'Acronia."
+    },
+    "3543": {
+        "「山神イプチャルの　おわす山に\n　魔瘴が発生するなど　よほどの事態。\n　早急に　調査せねば……　とのことでアール。": "Que des miasmes magiques apparaissent sur la\nmontagne ou reside le dieu de la montagne\nIpcharr est une situation des plus graves.<br>Nous devons enqueter d'urgence... c'est ce\nqu'on m'a dit."
+    },
+    "3544": {
+        "「……ううむ。": "...... Hmm."
+    },
+    "3545": {
+        "「<pc>。\n　ボクたちと　最初に出会った場所……\n　守人の部屋を　覚えているよね？": "<pc>. Tu te souviens de l'endroit ou\nnous nous sommes rencontres pour la premiere\nfois... La chambre du gardien ?"
+    },
+    "3546": {
+        "「戒めの地は　あの部屋の扉の先にあるんだ。\n　<pc>も　すぐに来てよね！": "La Cave of Counsel se trouve derriere la porte\nde cette piece. <pc>, rejoins-nous vite\n!"
+    },
+    "3547": {
+        "「きゃー！\n　チャルコと　セッチュがぁー！！": "Kyaa ! Chalco et Secchu !!"
+    },
+    "3548": {
+        "「しっかりしろ！　何があったんだ！？": "Ressaisis-toi ! Que s'est-il passe ?!"
+    },
+    "3549": {
+        "「ああ……親方……　ブロッゲンさま……。": "Ah... Maitre... Seigneur Broggen..."
+    },
+    "3550": {
+        "「や　やられました。\n　ルナナが……　ムチェとブチャを　したがえて\n　ムリヤリ　奥へ……！": "Oh, on a ete attaques. Lunana... accompagne de\nMutch et Butch... ils se sont diriges vers les\nprofondeurs avec des Spears impossibles a<br>arreter... !"
+    },
+    "3551": {
+        "「えええーっ！\n　戒めの地へ　行っちゃったの～！？": "Eh eh eh ! Tu es alle(e) a la Cave of Counsel\n?!"
+    },
+    "3552": {
+        "「す　すみません。油断してました。": "Je... je suis desole. J'etais un peu distrait."
+    },
+    "3553": {
+        "「マズいな……。\n　ムチェもブチャも　アグラニに来て　日が浅い。": "C'est mauvais... Mutch et Butch sont arrives a\nAgrani il y a peu de temps."
+    },
+    "3554": {
+        "「戒めの地の意味するところを\n　知らないに　ちがいない……！": "Il est clair que tu ignores la signification\nde la Cave of Counsel... !"
+    },
+    "3555": {
+        "「戒めの地は　この部屋の先にある\n　閉ざされた場所なんだ。\n　さあ　急ぐよ　<pc>！": "La Cave of Counsel se trouve juste apres cette\npiece, c'est un endroit scelle. Allons-y vite,\n<pc> !"
+    },
+    "3556": {
+        "「そうよッ！\n　ガンガン　掘ってちょうだいッ！！": "Oui ! Creusez, creusez sans relache !"
+    },
+    "3557": {
+        "「ここに　貴重な宝石が　眠っているのは\n　確かなんだから！": "Je suis sur qu'un precieux joyau est cache ici\n!"
+    },
+    "3558": {
+        "「ガッテンだぁー！": "Compris !"
+    },
+    "3559": {
+        "「くくく……。\n　もうすぐ　あたしの時代がくるわ！": "Kukuku... Bientot, mon ere va commencer !"
+    },
+    "3560": {
+        "「バカ親方たちは　くだらない迷信を\n　信じてるみたいだけど　出るものさえ出れば\n　みんな　あたしに　ついてくるはず！": "Les idiots de chefs semblent croire a des\nsuperstitions ridicules, mais une fois que les\nchoses commencent a bouger, tout le monde<br>devrait me suivre !"
+    },
+    "3562": {
+        "「そこまででアールッ！！": "<そこまででAruッ！！>"
+    },
+    "3563": {
+        "「誰ッ！？": "Qui va la !?"
+    },
+    "3564": {
+        "「ルナナ！　ドワーフの掟を\n　土足で踏みにじっては　ダメでアール！\n　お前の父親は　そんな人じゃなかったでアール！": "Lunana ! Tu ne dois pas pietiner les regles\ndes Nains de cette maniere ! Ton pere n'etait\npas ce genre de personne !"
+    },
+    "3565": {
+        "「うるっさい！！　棒ッ！！": "Tais-toi !! Espece de baton !!"
+    },
+    "3566": {
+        "「あんな……　人に　こびるような\n　父のやり方は　生ぬるいわッ！": "Un pere qui se rabaisse ainsi devant les\nautres avec sa facon de manier la lance...\nC'est trop mou !"
+    },
+    "3567": {
+        "「あたしは　迷信を真に受けて　この地を封じた\n　アンタたちが　間違っていたことを証明し\n　アグラニの住人を　服従させてみせる！": "Je suis celle qui a scelle cette terre en\nsuivant la superstition de T. Je vais prouver\nque vous avez eu tort et soumettre les<br>habitants d'Agrani a ma volonte !"
+    },
+    "3568": {
+        "「そして　このアグラニを拠点とし　いずれ\n　世界中の人々を　ひざまずかせてやるのよッ！": "Et ainsi, en etablissant notre base ici a\nAgurani, nous ferons un jour s'agenouiller les\ngens du monde entier !"
+    },
+    "3569": {
+        "「ルナナ……。\n　お前ってヤツは……！": "Lunana... Toi, tu es vraiment... !"
+    },
+    "3570": {
+        "「すげえええ！\n　こりゃあ　絶対　とんでもないもんが出るぞ！！": "Incroyable ! Ca va surement donner quelque\nchose d'extraordinaire !!"
+    },
+    "3571": {
+        "「ああ！　そんなニオイがするなぁ！": "Ah ! Ca sent vraiment comme ca !"
+    },
+    "3572": {
+        "「やめるんだ　ムチェ　ブチャ！\n　それ以上　掘れば　タダではすまんぞっ！！": "Arrete, Mutch Butch ! Si tu creuses encore\nplus, ca ne se passera pas bien !"
+    },
+    "3573": {
+        "「うるせえっ！\n　よくも……　こんないい場所があることを\n　ずっと　隠してやがったな！": "Tais-toi ! Comment as-tu pu cacher un endroit\naussi genial pendant tout ce temps !"
+    },
+    "3574": {
+        "「ひとりじめには　させねえぜ！\n　ここは　オレたちのもんだっ！！": "Je ne te laisserai pas tout garder pour toi !\nCet endroit est a nous !"
+    },
+    "3575": {
+        "「そんな考え方をしては　いかん！\n　ここは　山神さまが　欲にとりつかれた魂を\n　鎮めてくださっている場所なんだ！！": "Tu ne devrais pas penser ainsi ! Ici, c'est un\nendroit ou le dieu de la montagne apaise les\names possedees par la cupidite !"
+    },
+    "3576": {
+        "「行きすぎた欲望のために争い\n　滅びをむかえる歴史は　くり返さないと\n　オレたちは　山神さまに誓ったんだ！！": "Pour ne pas repeter l'histoire de la\ndestruction causee par des desirs excessifs et\ndes conflits, nous avons jure devant le dieu<br>de la montagne !!"
+    },
+    "3577": {
+        "「山神なんざ　いるもんか！\n　ここは　オレのもんだぁ！！": "Il n'y a pas de dieu de la montagne ! Cet\nendroit m'appartient !!"
+    },
+    "3578": {
+        "「いや　オレのもんだああ！！": "Non, c'est a moi !!"
+    },
+    "3579": {
+        "「ちょ……ちょっと！": "He... he, attends un peu !"
+    },
+    "3580": {
+        "「ウ　ガガガ………！": "U... Gagaga... !"
+    },
+    "3581": {
+        "「な　なんなの？　今の声は……！？": "Qu... Qu'est-ce que c'etait ? Cette voix... !?"
+    },
+    "3582": {
+        "「マアモォォオオオン！！！": "Maaamoooonnnn !!!"
+    },
+    "3583": {
+        "「キャー！\n　あ　あれが　怨霊ってヤツ！？": "Kyaa ! C'est ca qu'on appelle un esprit\nvengeur !?"
+    },
+    "3586": {
+        "「我が名は　マアモン……。": "Je me nomme Maamon..."
+    },
+    "3587": {
+        "「欲深き者どもめ……。\n　この地に眠る宝石は　誰にも渡さぬ……！": "Ah, vous les cupides... Les joyaux qui\nreposent ici ne seront a personne... !"
+    },
+    "3589": {
+        "「二度と足を踏み入れられぬよう\n　魂ごと　喰らってくれるわァァァ！": "Je vais devorer ton ame pour que tu ne puisses\njamais revenir ici !"
+    },
+    "3590": {
+        "「ギシャァァアアアアアアアアアア！！！": "Gyshaaaaaaa!!!"
+    },
+    "3591": {
+        "「か　身体に……チカラが　入らねえ………。\n　あいつに……吸い取られる……。": "Mon... corps... je n'ai plus de force... Il\nme... draine..."
+    },
+    "3592": {
+        "「ブロッゲン……さまの……\n　チカラが……き　消えちゃう………。": "Bloggen... sama... son pouvoir... disparait..."
+    },
+    "3593": {
+        "「う……　くぅ……。": "Ou... Kuu..."
+    },
+    "3594": {
+        "「<cs_pchero>……？": "<cs_pchero>......？"
+    },
+    "3595": {
+        "「動けるのっ！？\n　お願いだ……。あいつを　倒して！！": "Tu peux bouger !? Je t'en prie... Bat-le !!"
+    },
+    "3596": {
+        "「<cs_pchero>　来てくれたの……？": "<cs_pchero> Tu es venu..."
+    },
+    "3597": {
+        "「お願いだ……。\n　あいつを　倒して……！": "S'il te plait... Bats-le... !"
+    },
+    "3598": {
+        "「グ　アアァァ………！": "Gu aaaaah... !"
+    },
+    "3599": {
+        "「おおっ　身体が動くぞ！？": "Oh, mon corps peut bouger !?"
+    },
+    "3600": {
+        "「<cs_pchero>が　やってくれましたね！\n　ブロッゲンさま！": "<cs_pchero> a reussi ! Blokken-sama !"
+    },
+    "3601": {
+        "「ハア　ハア……。": "Haa, haa..."
+    },
+    "3602": {
+        "「ウガァァ……　許さぬぅぅ！！": "Ugaaa... Je ne te pardonnerai jamais !"
+    },
+    "3603": {
+        "「集えっ！　この地に眠る　強欲なる魂たちよ！\n　そして　我に　チカラを！！": "Rassemblez-vous ! Ames avides qui dormez en\ncette terre ! Et pretez-moi votre puissance !!"
+    },
+    "3604": {
+        "「マアモォォォォオオオオオオオオン！！！！！": "Maaaon！！！！！"
+    },
+    "3605": {
+        "「くそっ　巨大化した……！？": "Mince, il a grandi...!?"
+    },
+    "3606": {
+        "「ホッツィ！　<cs_pchero>！\n　ここは　わしにまかせろ！": "Hottsi ! <cs_pchero> ! Laisse-moi m'en occuper\nici !"
+    },
+    "3607": {
+        "「お前たちは　みんなを連れて\n　逃げるのだ！！": "Vous devez emmener tout le monde et fuir !!"
+    },
+    "3608": {
+        "「あ……　ああ……！": "Ah... Ah... !"
+    },
+    "3609": {
+        "「何をしておるっ！　早く行けっ！！": "Que fais-tu encore la ? Depeche-toi d'y aller\n!"
+    },
+    "3610": {
+        "「マアモオオオオオオオオン！！！！！": "MaamoOOOOOOON!!!!!!"
+    },
+    "3611": {
+        "「ああっ！\n　ブロッゲンさまの杖さまがっ……！！": "あah ! Le baton de Broggen-sama... !!"
+    },
+    "3612": {
+        "「キャー！　ブロッゲンさまー！！": "Kyah ! Broggen-sama !!"
+    },
+    "3613": {
+        "「うぬぅっ……！！\n　万事…休す……か……！": "Ugh... !! Tout est... perdu... ?"
+    },
+    "3614": {
+        "「…………………………。": "................................"
+    },
+    "3615": {
+        "「なんだってんだ……。\n　この　真っ白い光は……。": "Qu'est-ce que c'est que ca... Cette lumiere\nblanche eclatante..."
+    },
+    "3616": {
+        "「オレたちは　助かったのか？": "Sommes-nous sauves ?"
+    },
+    "3617": {
+        "「ふ　ふんッ！": "Hmph !"
+    },
+    "3618": {
+        "「ここが　あんな　バケモノつきの土地だなんて\n　聞いてなかったわよ！": "Je n'avais pas entendu dire que cet endroit\netait hante par de tels monstres !"
+    },
+    "3619": {
+        "「こんな場所が近くにある　町にいたら\n　命が　いくつあっても　足りないわッ！\n　ムチェ！　ブチャ！　行くわよ！！": "Si on reste dans une ville avec un endroit\npareil a proximite, on n'aura jamais assez de\nvies ! Mutch ! Butch ! Allons-y !!"
+    },
+    "3620": {
+        "「へ　へい！": "He, he !"
+    },
+    "3621": {
+        "<center>勇気ある　ドワーフたちよ　礼を言おう。\nよくぞ　マアモンより\n尊い命を　守ってくれた……。": "Braves nains, je vous remercie. Vous avez bien\nprotege ces precieuses vies des griffes de\nMaamon..."
+    },
+    "3622": {
+        "<center>この地に　渦巻いていた悪しき瘴気…魔瘴により\n我は　チカラを失い　マアモンを封じることも\n鉱山に　恵みを与えることもできずにいた。": "Les mauvaises effluves qui tourbillonnaient en\nces terres... A cause de la magie nefaste,\nj'ai perdu mes pouvoirs et je n'ai pas pu<br>sceller Maamon ni apporter la prosperite a la\nmine."
+    },
+    "3623": {
+        "<center>だが　あの白き光……\n勇者覚醒の光により　魔瘴は消え\n我は　チカラを取り戻した。": "Cependant, cette lumiere blanche... Avec la\nlumiere de l'eveil du heros, la miasma\nmalefique s'est dissipee, et j'ai retrouve ma<br>puissance."
+    },
+    "3624": {
+        "「この声は……？": "Cette voix... ?"
+    },
+    "3625": {
+        "「やはり……。\n　山神イプチャルの加護が　弱まっていたのは\n　魔瘴の影響であったか……。": "Je vois... La protection du dieu de la\nmontagne Ipchal etait affaiblie a cause de\nl'influence du miasme..."
+    },
+    "3626": {
+        "「そして　わしらを救った　あの白き光……\n　ついに伝説の勇者が……。": "Et puis cette lumiere blanche qui nous a\nsauves... Enfin, le legendaire heros..."
+    },
+    "3627": {
+        "「<cs_pchero>　ありがとな！\n　お前のおかげで　助かったぜ！": "<cs_pchero> Merci beaucoup ! Grace a toi, j'ai\nete sauve !"
+    },
+    "3628": {
+        "「……そうであった。\n　そのことについても　話しておかねば。": "......C'est vrai. Je dois aussi te parler de\ncela."
+    },
+    "3629": {
+        "「<cs_pchero>　親方の家に戻るぞ。\n　お前に　話したいことがある。": "<cs_pchero> Je retourne chez le maitre. J'ai\nquelque chose a te dire."
+    },
+    "3630": {
+        "「待ちかねたぞ　<pc>。": "Je t'attendais avec impatience, <pc>."
+    },
+    "3632": {
+        "「わしが　こうして起きていられるのは\n　ワケあって　わずかな時間だけなのだ。\n　悪いが　手短に話させてもらうぞ。": "Je ne peux rester eveille que pour une courte\nperiode en raison de certaines circonstances.\nDesole, mais je vais devoir etre bref."
+    },
+    "3633": {
+        "「<pc>よ。お前の　本当の姿は\n　ドワーフではなく　人間なのであろう？": "<pc>. Ta veritable apparence n'est pas\ncelle d'un Nain, mais bien celle d'un humain,\nn'est-ce pas ?"
+    },
+    "3634": {
+        "「ええっ！？": "Quoi !?"
+    },
+    "3635": {
+        "「やはりか……。": "Je m'en doutais..."
+    },
+    "3636": {
+        "「その鏡は　真実の姿を映しだすという\n　伝説の　ラーの鏡。": "Ce miroir est le legendaire Mirror of Ra, qui\nrevele la veritable apparence de T."
+    },
+    "3637": {
+        "「マアモンと戦ったとき　わしらは\n　チカラを奪われ　身動きできなくなったが\n　お前だけは　戦うことができたな？": "Quand nous avons combattu Maamon, nous avons\nete prives de notre force et incapables de\nbouger, mais toi seul as pu continuer a te<br>battre, n'est-ce pas ?"
+    },
+    "3638": {
+        "「それは　お前の身に宿る魂が　ドワーフでなく\n　人間のものだったからに　相違ない。": "Cela est sans doute du au fait que l'ame qui\nreside en toi n'est pas celle d'un Nain, mais\nbien celle d'un humain."
+    },
+    "3639": {
+        "「わしには　わかる。\n　なぜ　お前が　その姿となったのか……。": "Je le sais. Je sais pourquoi tu as pris cette\napparence..."
+    },
+    "3640": {
+        "「………………。": ""
+    },
+    "3641": {
+        "「ぐう……。": "Zzz..."
+    },
+    "3642": {
+        "「ブ　ブロッゲンさま！？": "<Burogen-sama !?>"
+    },
+    "3643": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3644": {
+        "「ブロッゲンさまの杖さま。\n　なんとか　おっしゃってくださいよ！？": "O grand sceptre de Broggen-sama. Dites quelque\nchose, je vous en prie !"
+    },
+    "3645": {
+        "「……………………。": "."
+    },
+    "3646": {
+        "「うおー　なんてこったい！": "Ouah ! Qu'est-ce que c'est que ca !"
+    },
+    "3647": {
+        "「……<pc>。\n　お前と　しゃべるのに　ブロッゲンさまは\n　ちっとばかり　ご無理をなさったようだ。": "......<pc>. Il semble que le Seigneur\nBlokken ait fait un petit effort pour te\nparler."
+    },
+    "3648": {
+        "「……おお　そうだ。\n　今のうちに　こいつを渡しておこう。": "...Oh, c'est vrai. Je devrais te donner ca\nmaintenant."
+    },
+    "3649": {
+        "<pc>は　ホッツィ親方から\n大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Intercontinental Rail\nPass (objet cle) de Boss Hottsi ! <me 60>"
+    },
+    "3650": {
+        "「大陸間鉄道パスは　持ってるだけで\n　好きなだけ　鉄道に乗れちまう\n　そりゃあ　貴重なモンなんだぜ。": "Avoir le Pass Rail Intercontinental permet de\nprendre le train autant qu'on le souhaite.\nC'est vraiment quelque chose de precieux !"
+    },
+    "3651": {
+        "「……ホントは　いつか\n　その身体の持ち主のほうの　<pc>に\n　やるつもりだったんだけどな……。": "En fait, je comptais offrir ca a <pc>,\nle Lord qui possede ce corps, un jour..."
+    },
+    "3652": {
+        "「まだ　信じられねえけどよ……\n　ブロッゲンさまの話じゃ　お前さんは\n　ドワーフの　<pc>とは別人なんだろ？": "Je n'arrive toujours pas a y croire, mais\nd'apres ce que dit Broggen-sama, tu es une\npersonne differente de <pc> de Nain,<br>n'est-ce pas ?"
+    },
+    "3653": {
+        "「あいつは　ぺーぺーの見習いだったが\n　文句も言わずに　よく　はたらいてくれてたよ。": "Il etait un apprenti debutant, mais il\ntravaillait bien sans se plaindre."
+    },
+    "3654": {
+        "「いつか　世界をマタにかけて\n　とんでもない　お宝を　掘りだしてやるってのが\n　あいつの　クチぐせだったんだ……。": "Un jour, je parcourrai le monde et je\ndeterrerai des tresors incroyables. C'etait sa\nphrase favorite..."
+    },
+    "3655": {
+        "「だからよ。もし　お前が　その身体を使って\n　何かデカイことを　やりとげてくれれば\n　あいつも　浮かばれると思う。": "Donc, tu vois, si tu pouvais accomplir quelque\nchose de grand avec ce corps, je pense qu'il\npourrait enfin reposer en paix."
+    },
+    "3656": {
+        "「そうだよ！": "C'est ca !"
+    },
+    "3657": {
+        "「うわっ！\n　ブロッゲンさまの杖さま！？": "Ouah ! Le baton de Broggen-sama !?"
+    },
+    "3658": {
+        "「ブロッゲンさまは　おっしゃっておらレール！\n　<pc>のように　姿を変えて\n　生き返った者には　果たすべき　使命があると。": "Le seigneur Broggen a declare ! Ceux qui\nreviennent a la vie en changeant d'apparence,\ncomme <pc>, ont une mission a accomplir."
+    },
+    "3659": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3660": {
+        "「その使命が　なんであるかは\n　いずれ　時が来れば　わかるとして……": "Quant a savoir quelle est cette mission, vous\nle comprendrez en temps voulu..."
+    },
+    "3661": {
+        "「使命を果たすために　助けとなるものを\n　今から　授けるのでアール。": "Pour accomplir ta mission, je vais te donner\nquelque chose qui te sera utile des\nmaintenant."
+    },
+    "3662": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "3663": {
+        "「さあ　冒険の書を出すのでアール！": "Voila, je sors le Journal de l'Aventure, Aru !"
+    },
+    "3664": {
+        "「杖サマ……　スパーーーーク！！！": "Baton-sama... SPAAAAARK !!!"
+    },
+    "3665": {
+        "「おおおっ　一人前の証が\n　<pc>の　冒険の書に！": "Ohhh, la preuve de ta valeur a ete ajoutee\ndans le Journal d'Aventure de <pc> !"
+    },
+    "3666": {
+        "「よかったな　<pc>！\n　これで　お前は　どこの国へ行っても\n　一人前だと　認められるぞ！": "Je suis content pour toi, <pc> !\nDesormais, peu importe le pays ou tu iras, tu\nseras reconnu comme quelqu'un de competent !"
+    },
+    "3667": {
+        "「異国の　おえらい王さまだって\n　お前のことを　頼りにしてくれるかもな！": "Peut-etre qu'un roi eminent d'un pays etranger\npourrait aussi compter sur toi !"
+    },
+    "3668": {
+        "「うん。各大陸の大きな町や国で　活躍すれば\n　その証として　キーエンブレムっていう\n　カギみたいな勲章を　もらえることがあるんだ。": "Oui. Si tu fais tes preuves dans les grandes\nvilles ou nations de chaque continent, tu\npourras recevoir un insigne appele Key Emblem,<br>qui est comme une medaille."
+    },
+    "3669": {
+        "「まずは　世界中をめぐり　自分の実力の証として\n　そのキーエンブレムを　集めるんだよ！": "D'abord, parcoure le monde et collectionne ces\nemblemes cles en guise de preuve de ta force !"
+    },
+    "3671": {
+        "「さあ　本当の冒険の始まりだ　<pc>！\n　まずは　このアグラニから　北西にある町\n　岳都ガタラを　目指すんだ！": "Allez, c'est le debut de la veritable\naventure, <pc> ! Tout d'abord,\ndirige-toi vers la ville de Mount Gatara,<br>situee au nord-ouest d'Agrani !"
+    },
+    "3672": {
+        "「……と　ブロッゲンさまのお話は\n　以上でアール！": "......Et c'est ainsi que se termine l'histoire\nde Broggen-sama. Aru !"
+    },
+    "3673": {
+        "「我々も　もう　旅に出ることにするから。\n　あの白い光……　勇者覚醒の原因を探るため\n　行かなくてはならないのでアール！": "Nous aussi, nous allons partir en voyage.\nCette lumiere blanche... nous devons enqueter\nsur la cause du reveil du heros !"
+    },
+    "3674": {
+        "「なんだか　スケールのでっかい話になったが\n　オレも　お前のこと　応援してるからな！\n　がんばれよ　<pc>！": "Ca devient une histoire de grande envergure,\nmais je te soutiens aussi ! Allez, courage,\n<pc> !"
+    },
+    "4456": {
+        "「そして　ブロッゲンさまの杖さま。": "Et ensuite, le baton de Broggen-sama."
+    },
+    "11280": {
+        "「ホッツィ。\n　その鏡で　<pc>を　映してみてくれ。": "Hottsi. Avec ce miroir, montre-moi <pc>."
+    },
+    "24640": {
+        "「こ……　この気配は……。\n　まさか……！？": "Ce... ce sentiment... Serait-ce possible...!?"
+    },
+    "26743": {
+        "「お　おいっ！\n　大丈夫かっ　<pc>！": "Oh, he ! Ca va, <pc> ?"
+    },
+    "26744": {
+        "「本当に　残念だが……\n　<pc>は　もう……。": "C'est vraiment regrettable, mais... <pc>\nest deja..."
+    },
+    "26745": {
+        "「オレの後ろに見えるのは\n　神カラクリと言ってな。\n　アグラニ自慢の　昇降機なのさ。": "Ce que tu vois derriere moi s'appelle le Kami\nKarakuri. C'est l'ascenseur dont Agurani est\nfier."
+    },
+    "26746": {
+        "「ふっふっふ。この神カラクリを使えば\n　上の町まで　一瞬で行けるぞ。": "Hehehe. Avec cet artifice divin, tu pourras\natteindre la ville du dessus en un instant."
+    },
+    "26747": {
+        "「この神カラクリってヤツは\n　何千年も前の　時代のものらしいが……。": "Il parait que cette machine divine date d'il y\na plusieurs milliers d'annees..."
+    },
+    "26748": {
+        "「今でも　オレたちを乗せて\n　スーッと上まで　運んでくれる。\n　いやはや　すごい発明品だよなあ！": "Meme maintenant, il nous transporte en douceur\njusqu'en haut. Vraiment, c'est une invention\nincroyable !"
+    },
+    "26749": {
+        "「……そこで　アグラニの人たちは\n　山神イプチャルに　その事件を戒めにすると誓い\n　怨霊を鎮めてほしいと　祈りつづけたんだ。": "Ainsi, les habitants d'Aglani ont jure de\nfaire de cet incident un avertissement pour le\ndieu de la montagne Iputcharu et ont continue<br>a prier pour apaiser les esprits vengeurs."
+    },
+    "26750": {
+        "<center>これからは　ふたたび　この山神イプチャルが\n鉱山に関わる　すべての者たちを\n見守ってゆくと　約束しよう。": "Desormais, moi, le dieu de la montagne\nIpchalu, je promets de veiller a nouveau sur\ntous ceux qui sont lies a cette mine."
+    },
+    "26751": {
+        "<center>だが　ゆめゆめ忘れるな　ドワーフたちよ。\n欲望の牙は　おぬしらの心に\n常に　ひそんでいることを……。": "Cependant, n'oubliez jamais, Nain. Les crocs\ndu desir se cachent constamment dans vos\ncoeurs..."
+    },
+    "26926": {
+        "「マアァァァ……モオォォォン……！！": "Maaa... Moooon...!!"
+    },
+    "27034": {
+        "「扉の横に　見えるのが\n　神カラクリを動かすスイッチだ。\n　上の町に行きたいのなら　調べてみるといい。": "A cote de la porte, tu peux voir\nl'interrupteur qui active le mecanisme divin.\nSi tu souhaites te rendre a la ville du<br>dessus, tu devrais l'examiner."
+    },
+    "39087": {
+        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "Zoomstone est une pierre magique qui vous\npermet de vous deplacer instantanement a\nl'endroit memorise. Peu importe combien de<br>fois vous l'utilisez, elle ne disparait pas."
+    },
+    "39088": {
+        "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Aucun emplacement n'est encore memorise dans\ncette Zoomstone. Les emplacements peuvent etre\nmemorises a l'eglise."
+    },
+    "50740": {
+        "「ここから先の旅は　ひとりには　つらいもの。\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させてくれ。": "Le voyage qui t'attend sera difficile en\nsolitaire. J'ai prepare trois compagnons de\nsoutien pour t'aider. Laisse-les t'accompagner<br>dans ton periple."
+    },
+    "50742": {
+        "「岳都ガタラまで着けば　酒場で\n　新しいサポート仲間を　紹介してもらえるから\n　自由に選んで　連れていくことができるぞ。": "Une fois arrive a Mount Gatara, on te\npresentera de nouveaux compagnons de soutien a\nla taverne. Tu pourras les choisir librement<br>et les emmener avec toi."
+    }
+}
